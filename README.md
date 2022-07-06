@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ugo alias @MrJekkyl
+- 👋 Hi, I’m Ugo alias @ugolafosse
 
 - 👀 I’m the CEO of a french Startup called Clubin, and I am currently building the full front-end of our App for IOS. 
 I work with a team of back-end developper, to build a Top-Tier app to launch on the App store. 
